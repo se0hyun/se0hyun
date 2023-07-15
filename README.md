@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![SE0HYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0hyun&show_icons=true&theme=radical)
 
