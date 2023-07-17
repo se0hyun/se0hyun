@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=64CCC5&height=300&section=header&text=SE0HYUN's%20Github&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=64CCC5&height=280&section=header&text=se0hyun's%20Github&fontSize=90)
 ![SE0HYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0hyun&show_icons=true&theme=gotham)
 
 <!--
