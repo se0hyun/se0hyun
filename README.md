@@ -1,7 +1,7 @@
 <div align ="center">
   <img src="https://github.com/se0hyun/se0hyun/assets/79033073/a9f93951-cc90-4f8c-b442-405c1d97b7ed"/>
   
-![se0hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0hyun&show_icons=true&theme=vue&title_color=00F6FF&text_color=FFFFFF&icon_color=00F6FF&bg_color=262626)
+![se0hyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0hyun&hide=stars,contribs&count_private=true&show_icons=true&theme=vue&title_color=00F6FF&text_color=FFFFFF&icon_color=00F6FF&bg_color=262626)
 <br/>
 <br/>
 <br/>
