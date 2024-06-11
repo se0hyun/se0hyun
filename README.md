@@ -1,6 +1,6 @@
 <div align ="center">
+  <img src="https://github.com/se0hyun/se0hyun/assets/79033073/a9f93951-cc90-4f8c-b442-405c1d97b7ed"/>
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=64CCC5&height=280&section=header&text=se0hyun's%20Github&fontSize=90)
 ![SE0HYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=se0hyun&show_icons=true&theme=gotham)
 <br/>
 <br/>
