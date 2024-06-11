@@ -1,6 +1,5 @@
 <div align ="center">
   <img src="https://github.com/se0hyun/se0hyun/assets/79033073/a9f93951-cc90-4f8c-b442-405c1d97b7ed"/>
-
 <div style="display: flex; align-items: center; justify-content: center; background-color: #262626; padding: 10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=se0hyun&hide=stars,contribs&count_private=true&show_icons=true&theme=vue&title_color=00F6FF&text_color=FFFFFF&icon_color=00F6FF&bg_color=262626" alt="stats" style="margin-right: 20px;" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=se0hyun&layout=compact&bg_color=262626&title_color=00F6FF" alt="toplangs" />
