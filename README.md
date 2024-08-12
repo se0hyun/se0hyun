@@ -2,15 +2,16 @@
   <img src="https://github.com/se0hyun/se0hyun/assets/79033073/a9f93951-cc90-4f8c-b442-405c1d97b7ed"/>
 </div>
 
+
+```
+🎓 Seoul National University of Science and Technology, Industrial Information System Engineering 
+```
+
 ### *I'm foucsing on...* 
 - `Spring`
 - `JPA` and `MyBatis`
 - `Spring Security`
 
-
-```
-🎓 Seoul National University of Science and Technology, Industrial Information System Engineering 
-```
 
 
 ### *What I did...*
