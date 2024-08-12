@@ -25,7 +25,11 @@
 | 2019.03 ~ 2025.02 | 서울과학기술대학교 산업정보시스템전공 재학 |
 
 
+
 ### *Contact*
+<a href="https://iamse0hyun.tistory.com/"><img src="https://img.shields.io/badge/Tistory-eb531f?style=flat-square&logo=tistory&logoColor=white&link=https://iamse0hyun.tistory.com/"/></a> 
+<a href="mailto:be8shyn@gmail.com"><img src="https://img.shields.io/badge/Gmail-34a853?style=flat-square&logo=Gmail&logoColor=white&link=mailto:be8shyn@gmail.com"/></a>
+
 
 
 
