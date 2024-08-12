@@ -6,13 +6,13 @@
 - `Spring`
 - `JPA` and `MyBatis`
 - `Spring Security`
----
+
 
 ```
 🎓 Seoul National University of Science and Technology, Industrial Information System Engineering 
 ```
 
----
+
 ### *What I did...*
 
 | 기간 | 활동 | 
@@ -24,7 +24,7 @@
 | 2022.07 ~ 2022.11 | (주)디지탈쉽 인턴 근무|
 | 2019.03 ~ 2025.02 | 서울과학기술대학교 산업정보시스템전공 재학 |
 
----
+
 ### *Contact*
 
 
